@@ -39,14 +39,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrinal321&theme=radical)](https://git.io/streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mrinal321&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrinal321&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-[![Metrics](https://github.com/Mrinal321/Mrinal321/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
 
 </div>
 
