@@ -10,6 +10,13 @@
 
 ---
 
+## 🚀 Featured Projects
+
+🔗 [Tutor Project](https://github.com/Mrinal321/Tutor-Project) - Smart-Tuition
+🔗 [United Satkandi](https://github.com/Mrinal321/United-Satkandi) - United-Satkand
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
