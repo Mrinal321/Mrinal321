@@ -33,22 +33,28 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Metrics
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrinal321&theme=radical)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal321&layout=compact&theme=radical)
-  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrinal321&theme=radical)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal321&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mrinal321&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
-| Metric        | Count       |
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrinal321&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![Metrics](https://github.com/Mrinal321/Mrinal321/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
+
+</div>
+
+| Metric        | Badge       |
 |---------------|-------------|
-| Total Stars   | ⭐ 40       |
-| 2025 Commits  | 🎯 890      |
-| Pull Requests | 🔄 1        |
-| Issues        | 🐛 1        |
+| Profile Views | ![Profile Views](https://komarev.com/ghpvc/?username=Mrinal321&color=blueviolet) |
+| Followers     | ![GitHub Followers](https://img.shields.io/github/followers/Mrinal321?style=social) |
+| Stars Earned  | ![GitHub Stars](https://img.shields.io/github/stars/Mrinal321?style=social) |
 
 ---
 
@@ -56,6 +62,7 @@
 - Competitive Programming
 - Web Development
 - Database Systems
+- Software Engineer Preparation
 
 ## 💡 Projects & Contributions
 My repositories contain various projects and problem-solving solutions. Feel free to explore and don't hesitate to contribute or provide feedback!
