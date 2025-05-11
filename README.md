@@ -1,16 +1,15 @@
 # 👋 I'm Mrinal Kanti Howlader
 
-🎓 Computer Science & Engineering  
-[= 1 0 × 2 0] University of Rajshahi  
-📧 mrinal.ru.cse@gmail.com  📞 +880 156 8185336  
+🎓 Computer Science & Engineering, University of Rajshahi  
+📧 mrinal.ru.cse@gmail.com | 📞 +880 156 818 5336  
 📍 Rajshahi, Bangladesh  
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2ea44f?style=for-the-badge)](https://mrinal321.github.io/)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/mrinal158)
 
 [![LeetCode Knight](https://img.shields.io/badge/💻_LeetCode_Knight-FFA116?style=for-the-badge)](https://leetcode.com/mrinal_58/)
-[![Codeforces Expert](https://img.shields.io/badge/⚔_Codeforces_Expert-1F8ACB?style=for-the-badge)](https://codeforces.com/profile/Mrinal_Kanti)
-[![CodeChef 5★](https://img.shields.io/badge/⭐_CodeChef_5★-5B4638?style=for-the-badge)](https://www.codechef.com/users/mrinal_678)
+[![Codeforces Expert](https://img.shields.io/badge/⚔_Codeforces_Expert-1F8ACB?style=for-the-badge&logoColor=blue)](https://codeforces.com/profile/Mrinal_Kanti)
+[![CodeChef 5★](https://img.shields.io/badge/⭐_CodeChef_5★-FFD700?style=for-the-badge&logoColor=yellow)](https://www.codechef.com/users/mrinal_678)
 
 ---
 
