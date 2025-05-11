@@ -12,8 +12,8 @@
 
 ## 🚀 Featured Projects
 
-🔗 [Tutor Project](https://github.com/Mrinal321/Tutor-Project) - Smart-Tuition
-🔗 [United Satkandi](https://github.com/Mrinal321/United-Satkandi) - United-Satkand
+[![United Satkandi](https://img.shields.io/badge/🛒_United_Satkandi-6e5494?style=for-the-badge)](https://github.com/Mrinal321/United-Satkandi)
+[![Tutor Project](https://img.shields.io/badge/📚_Tutor_Project-2496ED?style=for-the-badge)](https://github.com/Mrinal321/Tutor-Project)
 
 ---
 
