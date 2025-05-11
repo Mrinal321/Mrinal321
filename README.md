@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/mrinal158)
 
 [![LeetCode Knight](https://img.shields.io/badge/💻_LeetCode_Knight-FFA116?style=for-the-badge)](https://leetcode.com/mrinal_58/)
-[![Codeforces Expert](https://img.shields.io/badge/⚔_Codeforces_Expert-1F8ACB?style=for-the-badge&logoColor=blue)](https://codeforces.com/profile/Mrinal_Kanti)
+[![Codeforces Expert](https://img.shields.io/badge/⚔_Codeforces_Expert-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Mrinal_Kanti)
 [![CodeChef 5★](https://img.shields.io/badge/⭐_CodeChef_5★-FFD700?style=for-the-badge&logoColor=yellow)](https://www.codechef.com/users/mrinal_678)
 
 ---
